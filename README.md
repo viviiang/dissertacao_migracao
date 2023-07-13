@@ -36,12 +36,12 @@ O corpus é constituído por reportagens dos quatro jornais virtuais, A crítica
 ### Alguns resultados 
 
 ![](https://github.com/viviiang/dissertacao_migracao/blob/main/imagens/topicos_reportagens.png)
-> Distribuição de tópicos por jornal
+> Quantificação de reportagens por tópico
 
 <br/>
 
 ![](https://github.com/viviiang/dissertacao_migracao/blob/main/imagens/quantidade_reportagens_topicos.png)
-> Quantificação de reportagens por tópico
+> Distribuição de tópicos por jornal
 
 <br/>
 
